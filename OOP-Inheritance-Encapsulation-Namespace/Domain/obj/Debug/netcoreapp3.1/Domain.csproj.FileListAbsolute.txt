@@ -1,0 +1,10 @@
+C:\Users\Anar\Desktop\OOP-Inheritanse-AccessModify-\OOP-Inheritance-Encapsulation-Namespace\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\Anar\Desktop\OOP-Inheritanse-AccessModify-\OOP-Inheritance-Encapsulation-Namespace\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Anar\Desktop\OOP-Inheritanse-AccessModify-\OOP-Inheritance-Encapsulation-Namespace\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Anar\Desktop\OOP-Inheritanse-AccessModify-\OOP-Inheritance-Encapsulation-Namespace\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\Anar\Desktop\OOP-Inheritanse-AccessModify-\OOP-Inheritance-Encapsulation-Namespace\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anar\Desktop\OOP-Inheritanse-AccessModify-\OOP-Inheritance-Encapsulation-Namespace\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Anar\Desktop\OOP-Inheritanse-AccessModify-\OOP-Inheritance-Encapsulation-Namespace\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\Anar\Desktop\OOP-Inheritanse-AccessModify-\OOP-Inheritance-Encapsulation-Namespace\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Anar\Desktop\OOP-Inheritanse-AccessModify-\OOP-Inheritance-Encapsulation-Namespace\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Anar\Desktop\OOP-Inheritanse-AccessModify-\OOP-Inheritance-Encapsulation-Namespace\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
